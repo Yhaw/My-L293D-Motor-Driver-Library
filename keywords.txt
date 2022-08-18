@@ -1,0 +1,26 @@
+#######################################
+# Syntax Color Mapping for L293D and L293N Motor Driver Library
+# by Sylvian Kimkpe
+# 	github: @Yhaw
+#	twitter: @SylvianKimkpe
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Motor	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setpins  KEYWORD2
+forward	KEYWORD2
+backward	KEYWORD2
+Stop  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+CM	LITERAL1	Constants
+INC	LITERAL1	Constants
